@@ -1,0 +1,8 @@
+TARGETS = vsftpd hwclock.sh urandom sendsigs umountnfs.sh networking umountfs umountroot halt reboot
+sendsigs: vsftpd
+umountnfs.sh: sendsigs vsftpd
+networking: umountnfs.sh vsftpd
+umountfs: umountnfs.sh hwclock.sh urandom networking vsftpd
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot

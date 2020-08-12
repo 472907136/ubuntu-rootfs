@@ -1,0 +1,50 @@
+
+Start-Date: 2016-07-19  20:39:59
+Commandline: apt-get --yes --force-yes upgrade
+Upgrade: init:arm64 (1.29ubuntu1, 1.29ubuntu2), init-system-helpers:arm64 (1.29ubuntu1, 1.29ubuntu2), libfdisk1:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), libsystemd0:arm64 (229-4ubuntu4, 229-4ubuntu7), apt:arm64 (1.2.10ubuntu1, 1.2.12~ubuntu16.04.1), libmount1:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), util-linux:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), libapt-pkg5.0:arm64 (1.2.10ubuntu1, 1.2.12~ubuntu16.04.1), libudev1:arm64 (229-4ubuntu4, 229-4ubuntu7), mount:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), gcc-5-base:arm64 (5.3.1-14ubuntu2, 5.4.0-6ubuntu1~16.04.1), libblkid1:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), dpkg:arm64 (1.18.4ubuntu1, 1.18.4ubuntu1.1), systemd-sysv:arm64 (229-4ubuntu4, 229-4ubuntu7), libuuid1:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), systemd:arm64 (229-4ubuntu4, 229-4ubuntu7), libsmartcols1:arm64 (2.27.1-6ubuntu3, 2.27.1-6ubuntu3.1), grep:arm64 (2.24-1, 2.25-1~16.04.1), bsdutils:arm64 (1:2.27.1-6ubuntu3, 1:2.27.1-6ubuntu3.1), bash:arm64 (4.3-14ubuntu1, 4.3-14ubuntu1.1), lsb-base:arm64 (9.20160110, 9.20160110ubuntu0.2), libstdc++6:arm64 (5.3.1-14ubuntu2, 5.4.0-6ubuntu1~16.04.1), base-files:arm64 (9.4ubuntu4, 9.4ubuntu4.2), tzdata:arm64 (2016d-0ubuntu0.16.04, 2016f-0ubuntu0.16.04)
+End-Date: 2016-07-19  20:40:05
+
+Start-Date: 2020-03-27  03:01:52
+Commandline: /usr/bin/apt upgrade
+Upgrade: libpam0g:arm64 (1.1.8-3.2ubuntu2, 1.1.8-3.2ubuntu2.1), debconf:arm64 (1.5.58ubuntu1, 1.5.58ubuntu2), perl-base:arm64 (5.22.1-9, 5.22.1-9ubuntu0.6), init:arm64 (1.29ubuntu2, 1.29ubuntu4), init-system-helpers:arm64 (1.29ubuntu2, 1.29ubuntu4), libcomerr2:arm64 (1.42.13-1ubuntu1, 1.42.13-1ubuntu1.2), libseccomp2:arm64 (2.2.3-3ubuntu3, 2.4.1-0ubuntu0.16.04.2), libaudit-common:arm64 (1:2.4.5-1ubuntu2, 1:2.4.5-1ubuntu2.1), libfdisk1:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), libpam-modules:arm64 (1.1.8-3.2ubuntu2, 1.1.8-3.2ubuntu2.1), libsystemd0:arm64 (229-4ubuntu7, 229-4ubuntu21.27), apt:arm64 (1.2.12~ubuntu16.04.1, 1.2.32), makedev:arm64 (2.3.1-93ubuntu1, 2.3.1-93ubuntu2~ubuntu16.04.1), libkmod2:arm64 (22-1ubuntu4, 22-1ubuntu5.2), libmount1:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), libbz2-1.0:arm64 (1.0.6-8, 1.0.6-8ubuntu0.2), e2fsprogs:arm64 (1.42.13-1ubuntu1, 1.42.13-1ubuntu1.2), zlib1g:arm64 (1:1.2.8.dfsg-2ubuntu4, 1:1.2.8.dfsg-2ubuntu4.3), libc6:arm64 (2.23-0ubuntu3, 2.23-0ubuntu11), util-linux:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), coreutils:arm64 (8.25-2ubuntu2, 8.25-2ubuntu3~16.04), locales:arm64 (2.23-0ubuntu3, 2.23-0ubuntu11), passwd:arm64 (1:4.2-3.1ubuntu5, 1:4.2-3.1ubuntu5.4), procps:arm64 (2:3.3.10-4ubuntu2, 2:3.3.10-4ubuntu2.5), libpam-runtime:arm64 (1.1.8-3.2ubuntu2, 1.1.8-3.2ubuntu2.1), e2fslibs:arm64 (1.42.13-1ubuntu1, 1.42.13-1ubuntu1.2), libapt-pkg5.0:arm64 (1.2.12~ubuntu16.04.1, 1.2.32), libprocps4:arm64 (2:3.3.10-4ubuntu2, 2:3.3.10-4ubuntu2.5), libudev1:arm64 (229-4ubuntu7, 229-4ubuntu21.27), libapparmor1:arm64 (2.10.95-0ubuntu2, 2.10.95-0ubuntu2.11), libss2:arm64 (1.42.13-1ubuntu1, 1.42.13-1ubuntu1.2), mount:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), gcc-5-base:arm64 (5.4.0-6ubuntu1~16.04.1, 5.4.0-6ubuntu1~16.04.12), libblkid1:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), dpkg:arm64 (1.18.4ubuntu1.1, 1.18.4ubuntu1.6), libc-bin:arm64 (2.23-0ubuntu3, 2.23-0ubuntu11), tar:arm64 (1.28-2.1, 1.28-2.1ubuntu0.1), systemd-sysv:arm64 (229-4ubuntu7, 229-4ubuntu21.27), libuuid1:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), libgcrypt20:arm64 (1.6.5-2, 1.6.5-2ubuntu0.6), gpgv:arm64 (1.4.20-1ubuntu3, 1.4.20-1ubuntu3.3), systemd:arm64 (229-4ubuntu7, 229-4ubuntu21.27), libsmartcols1:arm64 (2.27.1-6ubuntu3.1, 2.27.1-6ubuntu3.10), login:arm64 (1:4.2-3.1ubuntu5, 1:4.2-3.1ubuntu5.4), libcryptsetup4:arm64 (2:1.6.6-5ubuntu2, 2:1.6.6-5ubuntu2.1), libpam-modules-bin:arm64 (1.1.8-3.2ubuntu2, 1.1.8-3.2ubuntu2.1), libdb5.3:arm64 (5.3.28-11, 5.3.28-11ubuntu0.2), bsdutils:arm64 (1:2.27.1-6ubuntu3.1, 1:2.27.1-6ubuntu3.10), bash:arm64 (4.3-14ubuntu1.1, 4.3-14ubuntu1.4), multiarch-support:arm64 (2.23-0ubuntu3, 2.23-0ubuntu11), gnupg:arm64 (1.4.20-1ubuntu3, 1.4.20-1ubuntu3.3), libstdc++6:arm64 (5.4.0-6ubuntu1~16.04.1, 5.4.0-6ubuntu1~16.04.12), libaudit1:arm64 (1:2.4.5-1ubuntu2, 1:2.4.5-1ubuntu2.1), sensible-utils:arm64 (0.0.9, 0.0.9ubuntu0.16.04.1), base-files:arm64 (9.4ubuntu4.2, 9.4ubuntu4.11), tzdata:arm64 (2016f-0ubuntu0.16.04, 2019c-0ubuntu0.16.04)
+End-Date: 2020-03-27  03:04:48
+
+Start-Date: 2020-03-27  03:16:05
+Commandline: /usr/bin/apt install vim
+Install: vim-common:arm64 (2:7.4.1689-3ubuntu1.4, automatic), libsqlite3-0:arm64 (3.11.0-1ubuntu1.4, automatic), libpython3.5:arm64 (3.5.2-2ubuntu0~16.04.9, automatic), mime-support:arm64 (3.59ubuntu1, automatic), libmagic1:arm64 (1:5.25-2ubuntu1.3, automatic), libmpdec2:arm64 (2.4.2-1, automatic), libexpat1:arm64 (2.1.0-7ubuntu0.16.04.5, automatic), vim-runtime:arm64 (2:7.4.1689-3ubuntu1.4, automatic), vim:arm64 (2:7.4.1689-3ubuntu1.4), libgpm2:arm64 (1.20.4-6.1, automatic), file:arm64 (1:5.25-2ubuntu1.3, automatic), libpython3.5-stdlib:arm64 (3.5.2-2ubuntu0~16.04.9, automatic), libpython3.5-minimal:arm64 (3.5.2-2ubuntu0~16.04.9, automatic), libssl1.0.0:arm64 (1.0.2g-1ubuntu4.15, automatic)
+End-Date: 2020-03-27  03:16:24
+
+Start-Date: 2020-03-27  03:18:28
+Commandline: /usr/bin/apt-get install vsftpd
+Install: libdns-export162:arm64 (1:9.10.3.dfsg.P4-8ubuntu1.15, automatic), libpopt0:arm64 (1.16-10, automatic), ifupdown:arm64 (0.8.10ubuntu1.4, automatic), openssl:arm64 (1.0.2g-1ubuntu4.15, automatic), libwrap0:arm64 (7.6.q-25, automatic), vsftpd:arm64 (3.0.3-3ubuntu2), netbase:arm64 (5.3, automatic), isc-dhcp-common:arm64 (4.3.3-5ubuntu12.10, automatic), ssl-cert:arm64 (1.0.37, automatic), libisc-export160:arm64 (1:9.10.3.dfsg.P4-8ubuntu1.15, automatic), libatm1:arm64 (1:2.5.1-1.5, automatic), tcpd:arm64 (7.6.q-25, automatic), iproute2:arm64 (4.3.0-1ubuntu3.16.04.5, automatic), libxtables11:arm64 (1.6.0-2ubuntu3, automatic), logrotate:arm64 (3.8.7-2ubuntu2.16.04.2, automatic), cron:arm64 (3.0pl1-128ubuntu2, automatic), isc-dhcp-client:arm64 (4.3.3-5ubuntu12.10, automatic), libmnl0:arm64 (1.0.3-5, automatic)
+End-Date: 2020-03-27  03:18:59
+
+Start-Date: 2020-03-27  03:22:35
+Commandline: /usr/bin/apt-get install openssh-server
+Install: libxdmcp6:arm64 (1:1.1.2-1.1, automatic), libkrb5-3:arm64 (1.13.2+dfsg-5ubuntu2.1, automatic), libgssapi-krb5-2:arm64 (1.13.2+dfsg-5ubuntu2.1, automatic), python3-urllib3:arm64 (1.13.1-2ubuntu0.16.04.3, automatic), libbsd0:arm64 (0.8.2-1ubuntu0.1, automatic), python3.5:arm64 (3.5.2-2ubuntu0~16.04.9, automatic), openssh-sftp-server:arm64 (1:7.2p2-4ubuntu2.8, automatic), python3:arm64 (3.5.1-3, automatic), python3.5-minimal:arm64 (3.5.2-2ubuntu0~16.04.9, automatic), libk5crypto3:arm64 (1.13.2+dfsg-5ubuntu2.1, automatic), python3-six:arm64 (1.10.0-3, automatic), libx11-6:arm64 (2:1.6.3-1ubuntu2.1, automatic), python3-requests:arm64 (2.9.1-3ubuntu0.1, automatic), krb5-locales:arm64 (1.13.2+dfsg-5ubuntu2.1, automatic), python3-minimal:arm64 (3.5.1-3, automatic), libxau6:arm64 (1:1.0.8-1, automatic), libxcb1:arm64 (1.11.1-1ubuntu1, automatic), libkrb5support0:arm64 (1.13.2+dfsg-5ubuntu2.1, automatic), libpython3-stdlib:arm64 (3.5.1-3, automatic), libkeyutils1:arm64 (1.5.9-8ubuntu1, automatic), libxmuu1:arm64 (2:1.1.2-2, automatic), ncurses-term:arm64 (6.0+20160213-1ubuntu1, automatic), python3-pkg-resources:arm64 (20.7.0-1, automatic), dh-python:arm64 (2.20151103ubuntu1.2, automatic), openssh-server:arm64 (1:7.2p2-4ubuntu2.8), libx11-data:arm64 (2:1.6.3-1ubuntu2.1, automatic), openssh-client:arm64 (1:7.2p2-4ubuntu2.8, automatic), libidn11:arm64 (1.32-3ubuntu1.2, automatic), libedit2:arm64 (3.1-20150325-1ubuntu2, automatic), ca-certificates:arm64 (20170717~16.04.2, automatic), xauth:arm64 (1:1.0.9-1ubuntu2, automatic), ssh-import-id:arm64 (5.5-0ubuntu1, automatic), wget:arm64 (1.17.1-1ubuntu1.5, automatic), python3-chardet:arm64 (2.3.0-2, automatic), libxext6:arm64 (2:1.3.3-1, automatic)
+End-Date: 2020-03-27  03:24:21
+
+Start-Date: 2020-03-27  03:24:32
+Commandline: /usr/bin/apt install net-tools
+Install: net-tools:arm64 (1.60-26ubuntu1)
+End-Date: 2020-03-27  03:24:34
+
+Start-Date: 2020-03-27  03:26:15
+Commandline: /usr/bin/apt-get install udev
+Install: udev:arm64 (229-4ubuntu21.27)
+End-Date: 2020-03-27  03:26:21
+
+Start-Date: 2020-03-27  08:21:59
+Commandline: /usr/bin/apt-get install kmod
+Install: kmod:arm64 (22-1ubuntu5.2)
+End-Date: 2020-03-27  08:22:02
+
+Start-Date: 2020-04-26  01:17:32
+Commandline: /usr/bin/apt-get upgrade
+Upgrade: libpython3.5:arm64 (3.5.2-2ubuntu0~16.04.9, 3.5.2-2ubuntu0~16.04.10), python3.5:arm64 (3.5.2-2ubuntu0~16.04.9, 3.5.2-2ubuntu0~16.04.10), python3.5-minimal:arm64 (3.5.2-2ubuntu0~16.04.9, 3.5.2-2ubuntu0~16.04.10), libpython3.5-stdlib:arm64 (3.5.2-2ubuntu0~16.04.9, 3.5.2-2ubuntu0~16.04.10), libpython3.5-minimal:arm64 (3.5.2-2ubuntu0~16.04.9, 3.5.2-2ubuntu0~16.04.10)
+End-Date: 2020-04-26  01:17:51
+
+Start-Date: 2020-04-26  01:22:19
+Commandline: /usr/bin/apt-get install iputils-ping
+Install: libgnutls-openssl27:arm64 (3.4.10-4ubuntu1.7, automatic), libgmp10:arm64 (2:6.1.0+dfsg-2, automatic), libhogweed4:arm64 (3.2-1ubuntu0.16.04.1, automatic), iputils-ping:arm64 (3:20121221-5ubuntu2), libnettle6:arm64 (3.2-1ubuntu0.16.04.1, automatic), libgnutls30:arm64 (3.4.10-4ubuntu1.7, automatic), libffi6:arm64 (3.2.1-4, automatic), libp11-kit0:arm64 (0.23.2-5~ubuntu16.04.1, automatic), libtasn1-6:arm64 (4.7-3ubuntu0.16.04.3, automatic)
+End-Date: 2020-04-26  01:22:37

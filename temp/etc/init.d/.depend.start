@@ -1,0 +1,5 @@
+TARGETS = vsftpd killprocs cron ssh single rc.local ondemand
+INTERACTIVE =
+single: killprocs
+rc.local: vsftpd cron ssh
+ondemand: vsftpd cron ssh

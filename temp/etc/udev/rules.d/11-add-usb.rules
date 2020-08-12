@@ -1,0 +1,5 @@
+#sdcard auto mount
+ACTION=="add",GOTO="farsight", KERNEL=="mmcblk[0-9]p[0-9]", RUN+="/etc/mount-sd.sh %k", LABEL="farsight"
+
+#usb auto mount
+ACTION=="add",GOTO="farsight",KERNEL=="sd[a-z][0-9]",RUN+="/etc/mount-usb.sh %k",LABEL="farsight"
